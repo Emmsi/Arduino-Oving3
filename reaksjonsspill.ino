@@ -119,16 +119,3 @@ void lose() {
     delay(50);
   }
 }
-
-
-/*
-  Kretsen kobla som pullup? knapper
-  - orginalt høy og blir lav
-
-  inc byte
-  switch
-  if ascii
-  kjør ting
-  flush
-  break
-*/
